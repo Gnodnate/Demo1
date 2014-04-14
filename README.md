@@ -1,0 +1,1 @@
+This project is a practice of Andorid coding base on the guide on website:http://developer.android.com/training/basics/firstapp/index.html
